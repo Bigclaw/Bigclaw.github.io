@@ -1,3 +1,3 @@
-# The Lightman Diaries
+The Lightman Diaries
 
 Coming Soon....
